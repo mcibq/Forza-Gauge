@@ -2,7 +2,7 @@
 Simple telemetry app for Forza Horizon 6 based on existing project by austinbaccus:
 
 https://github.com/austinbaccus/forza-telemetry  
-<img width="1920" height="1032" alt="Zrzut ekranu 2026-06-04 103909" src="https://github.com/user-attachments/assets/ad3523ef-dcc2-4a46-bfd5-e35dc3b30fde" />
+<img width="1920" height="1032" alt="Zrzut ekranu 2026-06-04 103909" src="https://github.com/user-attachments/assets/e8720780-6c32-46be-ad3f-4bfc725b1e86" />
 
 ## Compiling the app
 
