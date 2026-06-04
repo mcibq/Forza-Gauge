@@ -6,7 +6,7 @@ https://github.com/austinbaccus/forza-telemetry
 
 ## Compiling the app
 
-Requierements:
+Requirements:
 * NET.Framework 4.8
 * Visual Studio 2022 or higher
 
